@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parks>
+<product _id="1" _uuid="224D679E-8C5E-4A04-869D-EA94CEECF0C6" _position="1" _address="http://data.cityofchicago.org/resource/y7qa-tvqx/1">
+<park>ABBOTT (ROBERT)</park>
+<park_number>259</park_number>
+<facility_name>PLAYGROUND</facility_name>
+<facility_type>OUTDOOR</facility_type>
+<x_coordinate>1178619.54153</x_coordinate>
+<y_coordinate>1841712.82415</y_coordinate>
+<location latitude="41.720959999999998" longitude="-87.621351000000004" needs_recoding="false"/>
+</product>
+<product _id="2" _uuid="6A705CDE-418C-4618-8398-DBE09E11AD4B" _position="2" _address="http://data.cityofchicago.org/resource/y7qa-tvqx/2">
+<park>ABBOTT (ROBERT)</park>
+<park_number>259</park_number>
+<facility_name>SENIOR CENTER</facility_name>
+<facility_type>INDOOR</facility_type>
+<x_coordinate>1178491.24651</x_coordinate>
+<y_coordinate>1841782.61436</y_coordinate>
+<location latitude="41.721153999999999" longitude="-87.621819000000002" needs_recoding="false"/>
+</product>
+<product _id="3" _uuid="F7BB884C-6B89-450B-AEC1-FF0664C37B87" _position="3" _address="http://data.cityofchicago.org/resource/y7qa-tvqx/3">
+<park>ABBOTT (ROBERT)</park>
+<park_number>259</park_number>
+<facility_name>SPRAY FEATURE</facility_name>
+<facility_type>OUTDOOR</facility_type>
+<x_coordinate>1178475.8803999999</x_coordinate>
+<y_coordinate>1841904.3723200001</y_coordinate>
+<location latitude="41.721488999999998" longitude="-87.621871999999996" needs_recoding="false"/>
+</product>
+</parks>

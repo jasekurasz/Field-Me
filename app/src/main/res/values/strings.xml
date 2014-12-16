@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Field Me</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="sports_array">
+        <item>SOCCER</item>
+        <item>BASEBALL</item>
+        <item>SOFTBALL</item>
+        <item>POOL</item>
+        <item>TENNIS</item>
+        <item>VOLLEYBALL</item>
+        <item>FOOTBALL</item>
+        <item>BASKETBALL</item>
+    </string-array>
+
+</resources>
